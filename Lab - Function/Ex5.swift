@@ -23,6 +23,3 @@ func multiplyAndAddTwo(_ firstNumber: Int, to secondNumber: Int) -> Int {
 
 var multiplyAndAddTwoResult = multiplyAndAddTwo(3, to: 22)
 print(multiplyAndAddTwoResult)
-
-
-//: [Previous](@previous)  |  page 5 of 6  |  [Next: App Exercise - Separating Functions](@next)
