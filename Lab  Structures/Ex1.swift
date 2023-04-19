@@ -66,5 +66,4 @@ print(favoriteBook.pages)
 print(favoriteBook.price)
 
 
-//: page 1 of 10  |  [Next: App Exercise - Workout Tracking](@next)
 
