@@ -39,8 +39,4 @@ if (dollars == 0) {
     print("Looks to me like you're rich!")
 }
 
-//: [Previous](@previous)  |  page 2 of 9  |  [Next: App Exercise - Fitness Decisions](@next)
-
-
-
 
