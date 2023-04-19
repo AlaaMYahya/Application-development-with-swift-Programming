@@ -31,5 +31,3 @@ default:
     print("No medal awarded")
 }
 
-//: [Previous](@previous)  |  page 6 of 9  |  [Next: App Exercise - Heart Rate Zones](@next)
-
