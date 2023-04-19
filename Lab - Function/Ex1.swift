@@ -40,5 +40,3 @@ magicEightBall()
 
 
 
-//: page 1 of 6  |  [Next: App Exercise - A Functioning App](@next)
-
