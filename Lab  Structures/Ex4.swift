@@ -61,5 +61,4 @@ print(mile.feet)
 var kilometer = Distance(feet: 6540)
 print(mile.meters)
 
-//: [Previous](@previous)  |  page 4 of 10  |  [Next: Exercise - Methods](@next)
 
