@@ -55,6 +55,3 @@ pacing(currentDistance: 8, totalDistance: 12, currentTime: 6, goalTime: 12)
 pacing(currentDistance: 3, totalDistance: 15, currentTime: 10, goalTime: 15)
 pacing(currentDistance: 3, totalDistance: 10, currentTime: 5, goalTime: 10)
 
-
-//: [Previous](@previous)  |  page 4 of 6  |  [Next: Exercise - Return Values](@next)
-
