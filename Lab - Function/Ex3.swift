@@ -34,7 +34,3 @@ func multiply(_ firstNumber: Double, by secondNumber: Double) {
 }
 
 multiply(8.2, by: 3.5)
-
-
-//: [Previous](@previous)  |  page 3 of 6  |  [Next: App Exercise - Progress Updates](@next)
-
