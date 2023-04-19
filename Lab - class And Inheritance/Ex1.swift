@@ -59,6 +59,3 @@ print(falcon.health)
   Go back and add a method `wasHit()` to `Spaceship` that will decrement the ship's health by 5, then if `health` is less than or equal to 0 will print "Sorry. Your ship was hit one too many times. Do you want to play again?" Once this method exists, call it on `falcon` and print out the value of `health`.
  */
 
-
-//: page 1 of 4  |  [Next: Exercise - Create a Subclass](@next)
-
