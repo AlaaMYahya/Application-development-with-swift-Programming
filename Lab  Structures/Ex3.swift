@@ -82,7 +82,3 @@ print(someonesHeight.heightInCentimeters)
   print(myHeight.heightInInches)
  
 
-
-
-//: [Previous](@previous)  |  page 3 of 10  |  [Next: App Exercise - Users and Distance](@next)
-
