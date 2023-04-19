@@ -91,7 +91,3 @@ print(destroyer.remainingFirePower)
 
 
 
-
-
-//: [Previous](@previous)  |  page 2 of 4  |  [Next: Exercise - Override Methods and Properties](@next)
-
