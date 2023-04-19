@@ -44,5 +44,3 @@ func progressUpdate() {
 progressUpdate()
 
 
-//: [Previous](@previous)  |  page 2 of 6  |  [Next: Exercise - Parameters and Argument Labels](@next)
-
