@@ -38,5 +38,3 @@ let goal: Double = 10_000
 
 let percentOfGoal = (steps / goal) * 100
 print(percentOfGoal)
-//: [Previous](@previous)  |  page 2 of 8  |  [Next: Exercise - Compound Assignment](@next)
-
