@@ -37,5 +37,4 @@ firstRun.elevation = 94
 print("In your first run, you travelled \(firstRun.distance)m in \(firstRun.time) minutes and gained \(firstRun.elevation) metres elevation.")
 
 
-//: [Previous](@previous)  |  page 2 of 10  |  [Next: Exercise - Memberwise and Custom Initializers](@next)
 
