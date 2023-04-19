@@ -81,5 +81,3 @@ print(defender.health)
 
 
 
-//: [Previous](@previous)  |  page 3 of 4  |  [Next: Exercise - Class Memberwise Initializers and References](@next)
-
