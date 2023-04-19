@@ -59,5 +59,3 @@ let circumference = 2 * pi * radius
 print(diameter)
 print(circumference)
 
-//: page 1 of 8  |  [Next: App Exercise - Fitness Calculations](@next)
-
