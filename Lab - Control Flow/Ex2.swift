@@ -28,5 +28,3 @@ if isInTarget {
     print("You're on fire! Slow it down just a bit.")
 }
 
-//: [Previous](@previous)  |  page 5 of 9  |  [Next: Exercise - Switch Statements](@next)
-
